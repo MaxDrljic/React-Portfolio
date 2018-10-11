@@ -17,26 +17,26 @@ class Landing extends Component {
               <h1>Full Stack Web Developer</h1>
               <hr />
 
-              <p>HTML/CSS | JavaScript | Angular | React | Vue | NodeJS | PHP | Python</p>
+              <p>HTML/CSS | JavaScript | Angular | React | Vue | NodeJS | PHP | Laravel | Python | Django</p>
               <div className="social-links">
 
                 {/* LinkedIn */}
-                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                <a href="https://www.linkedin.com/in/max-drlji%C4%87-003378140/" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-linkedin-square" aria-hidden="true" />
                 </a>
 
                 {/* GitHub */}
-                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                <a href="https://github.com/MaxDrljic" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-github-square" aria-hidden="true" />
                 </a>
 
                 {/* FreeCodeCamp */}
-                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                <a href="https://www.freecodecamp.org/maxdrljic" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-free-code-camp" aria-hidden="true" />
                 </a>
 
                 {/* YouTube */}
-                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                <a href="https://www.youtube.com/channel/UCJWAp5NNcBAsAiRuNkJqWwg?view_as=subscriber" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-youtube-square" aria-hidden="true" />
                 </a>
 
